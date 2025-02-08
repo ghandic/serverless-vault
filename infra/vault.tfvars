@@ -1,0 +1,7 @@
+aws_region                 = "ap-southeast-2"
+gateway_domain             = "vault.your-domain.com"
+resend_api_key             = "TODO"
+smtp_from                  = "vaultwarden@your-domain.com"
+vaultwarden_admin_password = "TODO"
+vaultwarden_admin_salt     = "TODO"
+neon_api_key               = "TODO"
