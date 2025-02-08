@@ -17,7 +17,6 @@ Follow these steps to get your Vaultwarden Serverless instance up and running.
 
 - Docker
 - Terraform
-- AWS CLI
 - Python 3 (available as `python3`)
 
 ### Deployment Steps
